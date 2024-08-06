@@ -6,6 +6,9 @@
 h1{
     text-align: center;
     font-size: 3rem;
+    border: 3px dotted white;
+    padding: 1.2rem 1rem;
+    margin: 0px 1.5rem;
 }
 li{
     font-size: 2rem;
@@ -27,4 +30,14 @@ p{
     padding-top: 8rem;
     text-align: center;
     font-size: 1.5rem;
+}
+
+.list{
+    text-align: center;
+    width: 0.5rem;
+    margin: 0px 30rem;
+
+}
+.content1:hover a{
+    background: red;
 }
